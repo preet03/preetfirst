@@ -19,4 +19,10 @@ print(list)
 list.insert(7,'z')
 print(list)
 print(list.index('z'))
+list1=[1,2,3,4,9,5,6,8]
+print(list1)
+print(list1[:8])
+print(list1[1:5:2])
+
+
 
