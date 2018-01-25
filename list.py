@@ -27,6 +27,10 @@ print(list1[-8])
 print(list1[-7])
 print(list1[-8:-1])
 print(list1[-8:])
-
+print(2 in list1)
+print(9 in list1)
+print(list1)
+name=input("Enter name ");
+print(name)
 
 
