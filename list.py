@@ -23,6 +23,10 @@ list1=[1,2,3,4,9,5,6,8]
 print(list1)
 print(list1[:8])
 print(list1[1:5:2])
+print(list1[-8])
+print(list1[-7])
+print(list1[-8:-1])
+print(list1[-8:])
 
 
 
