@@ -32,5 +32,10 @@ print(9 in list1)
 print(list1)
 name=input("Enter name ");
 print(name)
-
+number=int(input("Enter Number"))
+print(number)
+print("My name is ", name, "and number is ", number)
+number=list[1,9,8,7,6,5,4,3,2,0]
+if l
+    
 
