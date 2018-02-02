@@ -36,7 +36,8 @@ cal(op,a,b)
 
 
 
-#10 number   
+#10 number
+   
 def number(n):
     for i in range(n):
         print(i)
