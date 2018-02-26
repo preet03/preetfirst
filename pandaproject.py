@@ -8,5 +8,6 @@ df["symboling"]=df["symboling"]+1
 df.dropna(subset=["price"], axis=0, inplace=True)
 meann=df["normalized-losses"].mean()
 df["normalized-losses"].replace(0,meann)
+
 print(df.head(5))
 
